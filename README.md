@@ -19,5 +19,5 @@ Usage:
 - Type in: FCTestToolWindow new openWithSpec
 - execute the code (Do it)
 - You see a new window named "Firmata Test Tool"
-- Type in the port number. Go to the Arduin ide, under menu item Tools you will find the port number.
+- Type in the port number. Go to the Arduino ide, under menu item Tools you will find the port number.
 - Press Start
