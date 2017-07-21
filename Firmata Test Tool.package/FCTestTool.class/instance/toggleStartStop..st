@@ -2,4 +2,6 @@ actions
 toggleStartStop: portNumber
 	self isStarted
 		ifTrue: [ self stop ]
-		ifFalse: [ self startOnPort: portNumber ]
+		ifFalse: [ self startOnPort: (('COM*' match: portNumber)
+						ifTrue: [portNumber asInteger]
+						ifFalse: [portNumber]) ]
