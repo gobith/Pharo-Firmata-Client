@@ -7,4 +7,6 @@ startOnPort: portNumber
 		queryFirmware;
 		queryCapability;
 		queryState;
-		queryAnalogMapping
+		queryAnalogMapping;
+		enabaleDigitalReporting;
+		enabaleAnalogReporting 
