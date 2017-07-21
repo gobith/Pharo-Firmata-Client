@@ -21,5 +21,5 @@ Usage:
 - You see a new window named "Firmata Test Tool"
 - Type in the port number. Go to the Arduino ide, under menu item Tools you will find the port number.
 - Press Start
---
+- 
 ![alt text](https://github.com/gobith/Pharo-Firmata-Client/blob/master/FirmataTestTool.png)
