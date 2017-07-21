@@ -1,0 +1,3 @@
+accessing
+sortedPins
+	^ pins asOrderedCollection

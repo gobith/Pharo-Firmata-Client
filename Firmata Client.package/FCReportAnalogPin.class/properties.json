@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "FCMidiSendMessage",
+	"category" : "Firmata Client-Messages",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pinNumber",
+		"enabled"
+	],
+	"name" : "FCReportAnalogPin",
+	"type" : "normal"
+}

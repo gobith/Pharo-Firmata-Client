@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FCPinValue",
+	"category" : "Firmata Client-Pin Values",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FCLOW",
+	"type" : "normal"
+}

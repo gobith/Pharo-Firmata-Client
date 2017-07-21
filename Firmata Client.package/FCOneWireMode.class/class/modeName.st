@@ -1,0 +1,4 @@
+accessing
+modeName
+
+	^'one wire'

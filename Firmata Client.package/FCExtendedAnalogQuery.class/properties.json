@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "FCSysexSendMessage",
+	"category" : "Firmata Client-Messages",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pinNumber"
+	],
+	"name" : "FCExtendedAnalogQuery",
+	"type" : "normal"
+}

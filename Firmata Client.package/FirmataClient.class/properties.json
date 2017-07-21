@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Firmata Client-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"portNumber",
+		"port",
+		"messages",
+		"readProcess",
+		"responseLock",
+		"pins",
+		"analogPins",
+		"firmwareName",
+		"majorVersion",
+		"minorVersion"
+	],
+	"name" : "FirmataClient",
+	"type" : "normal"
+}

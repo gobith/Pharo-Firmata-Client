@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "FCSysexMessage",
+	"category" : "Firmata Client-Messages",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"payload"
+	],
+	"name" : "FCSysexResponseMessage",
+	"type" : "normal"
+}

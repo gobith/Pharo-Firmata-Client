@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "ComposableModel",
+	"category" : "Firmata Test Tool",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tool",
+		"inputPort",
+		"buttonStartStop",
+		"list"
+	],
+	"name" : "FCTestToolWindow",
+	"type" : "normal"
+}

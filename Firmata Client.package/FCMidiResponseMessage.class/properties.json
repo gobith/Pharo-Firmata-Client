@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "FCMidiMessage",
+	"category" : "Firmata Client-Messages",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"payload"
+	],
+	"name" : "FCMidiResponseMessage",
+	"type" : "normal"
+}

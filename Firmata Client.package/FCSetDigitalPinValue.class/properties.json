@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "FCMidiSendMessage",
+	"category" : "Firmata Client-Messages",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pinNumber",
+		"pinValue"
+	],
+	"name" : "FCSetDigitalPinValue",
+	"type" : "normal"
+}

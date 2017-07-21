@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Firmata Client-Pin Modes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"resolution"
+	],
+	"name" : "FCPinMode",
+	"type" : "normal"
+}

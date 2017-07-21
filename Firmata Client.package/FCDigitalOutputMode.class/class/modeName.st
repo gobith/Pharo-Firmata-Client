@@ -1,0 +1,4 @@
+accessing
+modeName
+
+	^'digital out'

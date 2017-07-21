@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Firmata Client-Pin Values",
+	"classinstvars" : [
+		"soleInstance"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FCPinValue",
+	"type" : "normal"
+}

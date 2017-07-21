@@ -1,0 +1,4 @@
+accessing
+modeName
+
+	^'analog in'

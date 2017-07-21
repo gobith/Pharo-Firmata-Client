@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FCSysexSendMessage",
+	"category" : "Firmata Client-Messages",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FCReportFirmwareQuery",
+	"type" : "normal"
+}

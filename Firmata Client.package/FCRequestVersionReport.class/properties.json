@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FCMidiSendMessage",
+	"category" : "Firmata Client-Messages",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FCRequestVersionReport",
+	"type" : "normal"
+}

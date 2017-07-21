@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FCPinMode",
+	"category" : "Firmata Client-Pin Modes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FCI2CMode",
+	"type" : "normal"
+}
