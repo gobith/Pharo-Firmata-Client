@@ -1,0 +1,4 @@
+dispatching
+readAndDispatchTo: aFirmataClient
+
+	aFirmataClient nextMessage
