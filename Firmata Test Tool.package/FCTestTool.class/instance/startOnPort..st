@@ -2,7 +2,7 @@ actions
 startOnPort: portNumber
 	self stop.
 	client := FirmataClient port: portNumber.
-	client basicStart.
+	client start.
 	client
 		queryFirmware;
 		queryCapability;
